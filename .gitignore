@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+
+data/raw/WESAD/
+data/processed/
+data/splits/
+
+checkpoints/
+results/
+
+.ipynb_checkpoints/
+.DS_Store
