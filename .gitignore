@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / IDE
+.DS_Store
+.vscode/
+
+# Data (never commit)
+data/raw/
+data/processed/
+data/splits/
+
+# Outputs
+checkpoints/
+results/
