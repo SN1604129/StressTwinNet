@@ -18,16 +18,27 @@ The long-term goal is to develop a publishable, PhD-level system capable of:
 
 StressTwinNet/
 │
+
 ├── data/ # Raw and processed datasets (not tracked in git)
+
 ├── models/ # Model architectures
+
 ├── training/ # Training pipelines
+
 ├── evaluation/ # Metrics and evaluation scripts
+
 ├── genai/ # Explanation generation modules (later phase)
+
 ├── notebooks/ # Experiments and analysis
+
 ├── utils/ # Data loading and preprocessing
+
 ├── checkpoints/ # Saved model weights
+
 ├── main.py # Entry point
+
 ├── requirements.txt
+
 └── README.md
 
 
